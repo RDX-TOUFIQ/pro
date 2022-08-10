@@ -27,10 +27,16 @@
 
 - `rm -rf dump`
 
-- `https://github.com/T0UF1Q/pro`
+- `https://github.com/RDX-TOUFIQ/pro`
 
 # Run Script
 
 - `cd pro`
 
 - `python Old.py`
+
+### IT’S RDX TOUFIQ BRAND      
+## CONTACT RDX TOUFIQ   
+ 1. [Facebook](https://www.facebook.com/Remember.This.Name.ToufiQ.K1NG)  
+ 2. [Facebook Page](https://www.facebook.com/RDX.T0UFIQ)  
+ 3. [Whatapp](https://wa.me/+8801812027446)
